@@ -26,10 +26,10 @@ I'm a front-end developer. I'm passionate about technology and I find joy in cre
 My name is Federico Garcia. I am 29 years old and I am currently living in Italy. When I'm not at my computer I'm playing professional basketball.
 
 My passions:
-*🏀 Basketball
-*💻 Technology
-*👾 Videogames
-*✈️ Travel
+- 🏀 Basketball
+- 💻 Technology
+- 👾 Videogames
+- ✈️ Travel
 
   <!--
 **fedengarcia/fedengarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
