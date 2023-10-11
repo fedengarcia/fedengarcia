@@ -1,7 +1,6 @@
 ## Dev profile
 Hi there 👋
 I'm a front-end developer. I'm passionate about technology and I find joy in creating new digital experiences by bridging the paths between backend and frontend.
-<hr style="border:2px solid gray">
 
 ## Technology Skills
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -22,7 +21,6 @@ I'm a front-end developer. I'm passionate about technology and I find joy in cre
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<hr style="border:2px solid gray">
 
 ## About me
 My name is Federico Garcia. I am 29 years old and I am currently living in Italy. When I'm not at my computer I'm playing professional basketball.
