@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm a front-end developer. I'm passionate about technology and I find joy in creating new digital experiences by bridging the paths between backend and frontend.
+
+
 
 <!--
 **fedengarcia/fedengarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
