@@ -23,7 +23,7 @@ I'm a front-end developer. I'm passionate about technology and I find joy in cre
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## About me
-My name is Federico Garcia. I am 29 years old and I am currently living in Italy. When I'm not at my computer I'm playing professional basketball.  
+My name is Federico Garcia. I am 29 years old and I am currently living in Italy. When I'm not at my computer I'm training and playing professional basketball.  
   
 🏀 Professional basketball player  
 💻 Passionate about technology  
