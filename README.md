@@ -28,7 +28,7 @@ My name is Federico Garcia. I am 29 years old and I am currently living in Italy
 🏀 Professional basketball player  
 💻 Passionate about technology  
 👾 Video games as a hobby  
-✈️ Travel opens your mind  
+✈️ Travel
 
   <!--
 **fedengarcia/fedengarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
