@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm a front-end developer. I'm passionate about technology and I find joy in creating new digital experiences by bridging the paths between backend and frontend.
+I'm a front/back-end developer. I'm passionate about technology and I find joy in creating new digital experiences by bridging the paths between backend and frontend.
 
 ## 🚀 Tech Stack
 
