@@ -1,7 +1,21 @@
+<div align="center">
 
-## Hi there 👋
+# Federico Garcia
+### Fullstack Developer · Professional Basketball Player
 
-I'm a Fullstack Developer. I'm passionate about technology and I find joy in creating new digital experiences by bridging the paths between backend and frontend.
+*Bridging backend and frontend — one commit and one basket at a time*
+
+</div>
+
+---
+
+## 👋 Hey there
+
+I'm a **Fullstack Developer** passionate about building complete digital experiences — from database to UI. When I'm not pushing code, I'm competing on the basketball court at a professional level.
+
+I work with AI tools daily and believe they're reshaping how great software gets built.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -32,32 +46,24 @@ I'm a Fullstack Developer. I'm passionate about technology and I find joy in cre
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Tools
+#### Tools & AI
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 
+---
 
+## 🤖 AI in my workflow
+
+I use **Claude Code** as a core part of my development process — not just for autocomplete, but for architecture decisions, code review, and building faster without cutting corners.
+
+---
 
 ## About me
-My name is Federico Garcia. I was born in 1994. When I'm not at my computer I'm training and playing professional basketball.  
-  
-🏀 Professional basketball player  
-💻 Passionate about technology  
-👾 Video games as a hobby  
-✈️ Travel
 
-  <!--
-**fedengarcia/fedengarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏀 Professional basketball player — competing and training at the highest level  
+💻 Fullstack dev with full ownership of the stack  
+🤖 Daily AI user — Claude Code is part of the toolkit  
+👾 Video games to decompress  
+✈️ Travel as a reset button
