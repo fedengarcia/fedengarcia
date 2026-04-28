@@ -1,7 +1,7 @@
 <div align="center">
 
 # Federico Garcia
-### Fullstack Developer · Professional Basketball Player
+### Fullstack Developer
 
 *Bridging backend and frontend — one commit and one basket at a time*
 
