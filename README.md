@@ -62,8 +62,8 @@ I use **Claude Code** as a core part of my development process — not just for 
 
 ## About me
 
-🏀 Professional basketball player — competing and training at the highest level  
-💻 Fullstack dev with full ownership of the stack  
-🤖 Daily AI user — Claude Code is part of the toolkit  
+🏀 Professional basketball player   
+💻 Fullstack dev   
+🤖 Daily AI user   
 👾 Video games to decompress  
 ✈️ Travel as a reset button
