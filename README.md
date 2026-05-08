@@ -13,8 +13,6 @@
 
 I'm a **Fullstack Developer** passionate about building complete digital experiences — from database to UI. When I'm not pushing code, I'm competing on the basketball court at a professional level.
 
-I work with AI tools daily and believe they're reshaping how great software gets built.
-
 ---
 
 ## 🚀 Tech Stack
@@ -51,12 +49,6 @@ I work with AI tools daily and believe they're reshaping how great software gets
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-
----
-
-## 🤖 AI in my workflow
-
-I use **Claude Code** as a core part of my development process — not just for autocomplete, but for architecture decisions, code review, and building faster without cutting corners.
 
 ---
 
